@@ -1,4 +1,4 @@
-# CSV-based File Copier
+# CSV based File Copier
 
 This script allows users to search for and copy files specified in a CSV to another directory.
 
